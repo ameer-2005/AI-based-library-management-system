@@ -1,0 +1,35 @@
+TO: msafa@gmail.com
+SUBJECT: OTP Verification - AI Library
+TIME: 2026-03-09 06:31:24
+ERROR: Email FAILED to: msafa@gmail.com | Error: SMTP Error: Could not authenticate.
+---MESSAGE---
+
+    <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: #17a2b8; color: white; padding: 20px; border-radius: 5px; }
+                .content { padding: 20px; background: #f8f9fa; }
+                .otp-code { font-size: 24px; font-weight: bold; color: #17a2b8; text-align: center; margin: 20px 0; }
+                .footer { margin-top: 20px; font-size: 12px; color: #666; }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <div class='header'>
+                    <h2>🔢 OTP Verification</h2>
+                </div>
+                <div class='content'>
+                    <p>Dear User,</p>
+                    <p>Your One-Time Password (OTP) for email verification is:</p>
+                    <div class='otp-code'>348151</div>
+                    <p>This OTP will expire in 10 minutes.</p>
+                    <p>If you didn't request this, please ignore this email.</p>
+                </div>
+                <div class='footer'>
+                    <p>This is an automated message from AI Library System. Please do not reply.</p>
+                </div>
+            </div>
+        </body>
+    </html>

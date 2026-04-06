@@ -1,0 +1,9 @@
+TO: test@example.com
+SUBJECT: Test Email
+HEADERS: MIME-Version: 1.0
+Content-type: text/html; charset=UTF-8
+From: noreply@ai-library.local
+
+TIME: 2026-03-07 07:12:35
+---MESSAGE---
+<h1>This is a test email</h1><p>If you receive this, email is working!</p>
